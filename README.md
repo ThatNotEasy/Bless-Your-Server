@@ -1,4 +1,2 @@
 # Bless-Your-Server
-Bless your server From DDOSER
-
-- The Python script provided here is a modified version of a Bash script designed to protect a server against Distributed Denial of Service (DDoS) attacks. It analyzes network connections and bans IP addresses that exceed a specified number of connections to mitigate potential DDoS threats.
+- This shell script is designed to help protect a server from Distributed Denial of Service (DDoS) attacks. aims to help administrators protect their servers from DDoS attacks by monitoring network connections and taking action against IP addresses that exhibit suspicious or excessive connection behavior. It offers options for configuration and automation to make the process more manageable.
